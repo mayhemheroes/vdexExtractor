@@ -1,0 +1,10 @@
+project: mayhemheroes/vdexextractor
+target: vdexExtractor
+
+cmds:
+  - cmd: /vdexExtractor -i @@
+    env: {}
+image: ghcr.io/mayhemheroes/vdexextractor@sha256:56646b96a248073a51731719be656e1c66d21aae2ffd243f66b08eaba85135f3
+duration: 300
+testsuite:
+  - https://app.mayhem.security/mayhemheroes/vdexextractor/vdexextractor/testsuite.tar

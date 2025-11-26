@@ -1,0 +1,13 @@
+{
+  "workspace": "mayhemheroes",
+  "project": "vdexextractor",
+  "target": "vdexextractor",
+  "run_id": "2",
+  "ci_url": "https://github.com:443/mayhemheroes/vdexExtractor/actions/runs/2690061562",
+  "run_image_name": "ghcr.io/mayhemheroes/vdexextractor:master",
+  "run_image_with_digest": "ghcr.io/mayhemheroes/vdexextractor@sha256:56646b96a248073a51731719be656e1c66d21aae2ffd243f66b08eaba85135f3",
+  "git_repo_url": "git@github.com:mayhemheroes/vdexExtractor.git",
+  "git_revision": "b90d1338f306618d877c0ca73bfdcf2b8c930ffe",
+  "target_executable": "/vdexExtractor",
+  "working_dir": ""
+}
